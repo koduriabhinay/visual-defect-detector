@@ -1,0 +1,15 @@
+# Generated artifacts (recreate with: python scripts/train.py)
+data/
+models/
+metrics.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Test / tooling caches
+.pytest_cache/
+*.egg-info/
